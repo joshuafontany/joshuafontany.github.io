@@ -1,0 +1,9 @@
+title: Table of Contents
+
+<$macrocall
+	$name="toc-tabbed-external-nav"
+	tag="Contents"
+	selectedTiddler="$:/temp/toc/selectedTiddler"
+	unselectedText="<p>Select a topic in the table of contents. Click the arrow to expand a topic-header to view sub-topics.</p>"
+	missingText="<p>Missing tiddler.</p>"
+/>

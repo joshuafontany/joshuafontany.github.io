@@ -1,0 +1,8 @@
+caption: TekanBoards: A 'kanban-like' system of cards, lists, and boards.
+demo: https://joshuafontany.github.io/TW5-TekanBoards/
+description: ~TekanBoards is a generic kanban-like solution for managing "boards" "lists" and "cards", packaged as a Tiddlywiki5 plugin. The intent is to allow custom styles, buttons, and templates to extent the use beyond kanban-like project management.
+tags: [[GitHub Repos]]
+title: TekanBoards
+url: https://github.com/joshuafontany/TW5-TekanBoards
+
+<<github-repo-body>>

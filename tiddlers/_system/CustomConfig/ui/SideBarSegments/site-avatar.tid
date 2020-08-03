@@ -1,0 +1,7 @@
+list-before: $:/core/ui/SideBarSegments/site-title
+tags: $:/tags/SideBarSegment
+title: $:/CustomConfig/ui/SideBarSegments/site-avatar
+
+<div class="site-avatar">
+{{$:/CustomConfig/UserAvatar}}
+</div>

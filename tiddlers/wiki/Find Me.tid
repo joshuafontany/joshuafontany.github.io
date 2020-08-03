@@ -1,0 +1,9 @@
+tags: [[Hi There]]
+title: Find Me
+
+Become a supporter of mine on <$tiddler tiddler="Patreon"><a href={{!!url}} target="_blank"><i class={{!!icon}}/> <$view field="title"/></a></$tiddler> for updates, videos, access to private wikis, and other perks. You can also find me on:
+<ul>
+<$list filter="[tag[Find Me]!has[draft.of]] -[[Patreon]]">
+<li><a href={{!!url}} target="_blank"><i class={{!!icon}}/> <$view field="title"/></a></li>
+</$list>
+</ul>
