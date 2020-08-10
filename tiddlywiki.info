@@ -7,7 +7,9 @@
         "ebalster/formula",
         "ebalster/attribute-modules",
         "flibbles/relink",
-		"joshuafontany/jsonmangler"
+        "joshuafontany/jsonmangler",
+        "joshuafontany/pagetools",
+        "joshuafontany/bookmarks"
     ],
     "themes": [
         "tiddlywiki/vanilla",
