@@ -1,6 +1,8 @@
 {
     "description": "Empty edition",
     "plugins": [
+        "tiddlywiki/consent-banner",
+        "tiddlywiki/googleanalytics",
         "OokTech/Bob",
         "joshuafontany/oembed",
         "ebalster/modloader",

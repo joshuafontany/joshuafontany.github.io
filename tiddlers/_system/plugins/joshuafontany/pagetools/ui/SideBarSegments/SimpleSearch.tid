@@ -2,9 +2,9 @@ caption: Search
 created: 20200729064237237
 creator: Joshua Fontany
 list-after: $:/core/ui/SideBarSegments/page-controls
-modified: 20200810031511975
+modified: 20200811003435208
 modifier: Joshua Fontany
-tags: $:/tags/SideBarSegment
+tags: 
 title: $:/plugins/joshuafontany/pagetools/ui/SideBarSegments/SimpleSearch
 
 \define .simple-search()
