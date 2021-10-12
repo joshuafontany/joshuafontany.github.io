@@ -1,6 +1,8 @@
 caption: A User Avatar image styled to use in the wiki.
 class: 
+created: 20211004005758176
 image: $:/CustomConfig/Images/Avatar
+modified: 20211004005758176
 name: Joshua Fontany
 tags: $:/CustomConfig
 title: $:/CustomConfig/UserAvatar

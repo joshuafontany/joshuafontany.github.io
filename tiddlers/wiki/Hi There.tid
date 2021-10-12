@@ -1,5 +1,10 @@
+created: 20210719000009101
+creator: Joshua
+modified: 20210719000009137
+modifier: Joshua
 tags: Contents
 title: Hi There
+type: text/vnd.tiddlywiki
 
 <div class="hello-avatar">
 <$set name="imgWidth" value="150">
