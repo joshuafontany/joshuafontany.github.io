@@ -6,12 +6,13 @@
 		"tiddlywiki/snowwhite"
 	],
 	"serveWikis": {
-		"wikis": [
+		"editions": [
 			"../Dev",
 			"../Empty",
+			{ "name": "Freyja", "path": "../Freyja" },
 			{ "name": "SilatKilap", "path": "../SilatKilap" },
-			{ "name": "Test Wiki", "path": "../Test", "readers": "Freyja", "writers": "Joshua" },
-			{ "name": "TWDocs", "path": "../Test" },
+			{ "name": "Help", "path": "../Help", "readers": "(authenticated)", "writers": "Joshua" },
+			{ "name": "Duplicate", "path": "../SilatKilap" },
 			{ "name": "Here", "path": "./" },
 			{ "name": "Blank", "path": "." }
 		]
