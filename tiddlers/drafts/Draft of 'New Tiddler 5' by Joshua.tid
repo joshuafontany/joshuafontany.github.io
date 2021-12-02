@@ -1,0 +1,15 @@
+created: 20211202020225201
+creator: Joshua
+draft.of: New Tiddler 5
+draft.title: New Tiddler 5
+modified: 20211202020226985
+modifier: Joshua
+tags: 
+title: Draft of 'New Tiddler 5' by Joshua
+type: text/vnd.tiddlywiki
+
+\define lingo-base() $:/language/ControlPanel/Tools/Download/
+<$button class="tc-btn-big-green">
+<$action-sendmessage $message="tm-download-file" $param="$:/core/save/all" filename="index.html"/>
+<<lingo Full/Caption>> {{$:/core/images/save-button}}
+</$button>
