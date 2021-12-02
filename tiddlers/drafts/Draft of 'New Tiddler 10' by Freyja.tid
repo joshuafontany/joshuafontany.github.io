@@ -2,11 +2,15 @@ created: 20211014000724426
 creator: Joshua
 draft.of: New Tiddler 10
 draft.title: New Tiddler 10
-modified: 20211014030313490
+modified: 20211029084259801
 modifier: Joshua
+no: YES
 tags: Bookmark
-test: ing
 title: Draft of 'New Tiddler 10' by Freyja
-yes: no
+yes: yes
 
-Yes asgfafgsagadhsdhssssss
+Test Sync Offline Server Update
+
+
+
+Hells yes we are? Neat, I'll have to see how we can speed up things by batching changes and sending them as one transaction... ?

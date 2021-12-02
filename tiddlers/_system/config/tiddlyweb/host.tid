@@ -1,4 +1,4 @@
-origin: $protocol$//$host$
+origin: http://127.0.0.1:8080
 title: $:/config/tiddlyweb/host
 
-$protocol$//$host$/
+http://127.0.0.1:8080/
