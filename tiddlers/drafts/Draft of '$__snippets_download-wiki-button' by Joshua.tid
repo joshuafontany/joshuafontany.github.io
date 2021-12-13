@@ -1,0 +1,12 @@
+draft.of: $:/snippets/download-wiki-button
+draft.title: $:/snippets/download-wiki-button
+modified: 20211213010203403
+modifier: Joshua
+title: Draft of '$:/snippets/download-wiki-button' by Joshua
+type: text/vnd.tiddlywiki
+
+\define lingo-base() $:/language/ControlPanel/Tools/Download/
+<$button class="tc-btn-big-green">
+<$action-sendmessage $message="tm-download-file" $param="$:/core/save/all" filename="index.html"/>
+<<lingo Full/Caption>> {{$:/core/images/save-button}}
+</$button>

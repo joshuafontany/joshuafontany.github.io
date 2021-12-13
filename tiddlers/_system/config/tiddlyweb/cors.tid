@@ -7,4 +7,6 @@ tags: $:/tags/CorsFilter
 title: $:/config/tiddlyweb/cors
 type: text/vnd.tiddlywiki
 
+[match[https://127.0.0.1:8080]]
+[!match[https://localhost:8080]]
 [match[https://github.chronicles.wiki]]
