@@ -2,7 +2,6 @@ created: 20211202014114510
 creator: Joshua
 modified: 20211202014121614
 modifier: Joshua
-origin: http://127.0.0.1:8080
 tags: $:/tags/CorsFilter
 title: $:/config/tiddlyweb/cors
 type: text/vnd.tiddlywiki

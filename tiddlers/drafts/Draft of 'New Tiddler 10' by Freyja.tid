@@ -2,7 +2,7 @@ created: 20211014000724426
 creator: Joshua
 draft.of: New Tiddler 10
 draft.title: New Tiddler 10
-modified: 20211029084259801
+modified: 20211214021209217
 modifier: Joshua
 no: YES
 tags: Bookmark
@@ -11,6 +11,4 @@ yes: yes
 
 Test Sync Offline Server Update
 
-
-
-Hells yes we are? Neat, I'll have to see how we can speed up things by batching changes and sending them as one transaction... ?
+Neat, I'll have to see how we can speed up things by batching changes and sending them as one transaction... ??????????
