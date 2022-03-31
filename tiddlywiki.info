@@ -5,38 +5,6 @@
         "tiddlywiki/vanilla",
         "tiddlywiki/snowwhite"
     ],
-    "serveWikis": {
-        "editions": [
-            "../Dev",
-            "../Empty",
-            {
-                "name": "Freyja",
-                "path": "../Freyja"
-            },
-            {
-                "name": "SilatKilap",
-                "path": "../SilatKilap"
-            },
-            {
-                "name": "Help",
-                "path": "../Help",
-                "readers": "(authenticated)",
-                "writers": "Joshua"
-            },
-            {
-                "name": "Duplicate",
-                "path": "../SilatKilap"
-            },
-            {
-                "name": "Here",
-                "path": "./"
-            },
-            {
-                "name": "Blank",
-                "path": "."
-            }
-        ]
-    },
     "build": {
         "index": [
             "--rendertiddler",
@@ -44,6 +12,5 @@
             "index.html",
             "text/plain"
         ]
-    },
-    "yjs-key": "64967e2d-2a79-48b5-af1f-6dfee6e1801a"
+    }
 }
